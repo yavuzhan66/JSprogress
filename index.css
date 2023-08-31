@@ -1,0 +1,19 @@
+input{
+    position: absolute;
+    left: 240px;
+    font-size: 12px;
+    width: 160px;
+}
+
+label{
+    left: 4px;
+    font-size: 12px;
+}
+
+input[type=button] {
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    font-size: 12px;
+}
+
